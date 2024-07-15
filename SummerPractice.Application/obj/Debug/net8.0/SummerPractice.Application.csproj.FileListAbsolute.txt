@@ -1,0 +1,11 @@
+D:\SummerPractice\SummerPractice.Application\SummerPractice.Application\bin\Debug\net8.0\SummerPractice.Application.deps.json
+D:\SummerPractice\SummerPractice.Application\SummerPractice.Application\bin\Debug\net8.0\SummerPractice.Application.dll
+D:\SummerPractice\SummerPractice.Application\SummerPractice.Application\bin\Debug\net8.0\SummerPractice.Application.pdb
+D:\SummerPractice\SummerPractice.Application\SummerPractice.Application\obj\Debug\net8.0\SummerPractice.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\SummerPractice\SummerPractice.Application\SummerPractice.Application\obj\Debug\net8.0\SummerPractice.Application.AssemblyInfoInputs.cache
+D:\SummerPractice\SummerPractice.Application\SummerPractice.Application\obj\Debug\net8.0\SummerPractice.Application.AssemblyInfo.cs
+D:\SummerPractice\SummerPractice.Application\SummerPractice.Application\obj\Debug\net8.0\SummerPractice.Application.csproj.CoreCompileInputs.cache
+D:\SummerPractice\SummerPractice.Application\SummerPractice.Application\obj\Debug\net8.0\SummerPractice.Application.dll
+D:\SummerPractice\SummerPractice.Application\SummerPractice.Application\obj\Debug\net8.0\refint\SummerPractice.Application.dll
+D:\SummerPractice\SummerPractice.Application\SummerPractice.Application\obj\Debug\net8.0\SummerPractice.Application.pdb
+D:\SummerPractice\SummerPractice.Application\SummerPractice.Application\obj\Debug\net8.0\ref\SummerPractice.Application.dll
