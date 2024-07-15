@@ -2,7 +2,7 @@
 
 public class NumberUtilities
 {
-    public static double CalculateAverage(string numbers)
+    public double CalculateAverage(string numbers)
     {
         if (string.IsNullOrWhiteSpace(numbers))
         {
