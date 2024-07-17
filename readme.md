@@ -10,16 +10,15 @@ Write unit tests for the `CalculateAverage` method from the `NumberUtilities` cl
 ## Testing Scenarios
 Consider the following testing scenarios:
 
-1. **Valid Comma-Separated Numbers**
-    - Example: `"1,2,3"`.
+1. **Empty String**
 
-2. **Empty String**
+2. **Numbers with Some Extra Text Inside**
+    - Example: `"1, 2, three, 4, 5"`
 
-3. **Numbers with Some Extra Text Inside**
-    - Example: `"1, two, 3"` should extract numbers and ignore non-numeric text, returning the average of valid numbers.
+3. **Invalid String**
+    - Example: `"one, two, three"`
 
-4. **Invalid String**
-    - Example: `"one, two, three"` should throw exception
+4. **Negative numbers**
 
 ## Notes
 - Do not forget to respect unit tests good practices
