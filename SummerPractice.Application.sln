@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SummerPractice.Application", "SummerPractice.Application\SummerPractice.Application.csproj", "{C8F04774-CE08-4B38-A6C8-ADAAA079DEF4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SummerPractice.Application.Tests", "SummerPractice.Application.Tests\SummerPractice.Application.Tests.csproj", "{DA73A91C-D6DF-47A6-B644-7E09F19C2359}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C8F04774-CE08-4B38-A6C8-ADAAA079DEF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8F04774-CE08-4B38-A6C8-ADAAA079DEF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8F04774-CE08-4B38-A6C8-ADAAA079DEF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA73A91C-D6DF-47A6-B644-7E09F19C2359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA73A91C-D6DF-47A6-B644-7E09F19C2359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA73A91C-D6DF-47A6-B644-7E09F19C2359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA73A91C-D6DF-47A6-B644-7E09F19C2359}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
