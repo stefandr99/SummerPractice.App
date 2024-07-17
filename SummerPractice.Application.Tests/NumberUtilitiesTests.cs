@@ -64,5 +64,18 @@ namespace SummerPractice.Application.Tests
             // Act & Assert
             Assert.Throws<ArgumentException>(() => this._numberUtilities.CalculateAverage(numbers));
         }
+
+        [Fact]
+        public void Should_CalculateAverage_When_NumbersAreNegative()
+        {
+            // Arrange
+            var numbers = "-1, -2, -3";
+
+            // Act
+            var result = this._numberUtilities.CalculateAverage(numbers);
+
+            // Assert
+            result.Should().Be(-2);
+        }
     }
 }
